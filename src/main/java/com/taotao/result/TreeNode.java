@@ -1,4 +1,4 @@
-package com.taotao.common.pojo;
+package com.taotao.result;
 
 public class TreeNode {
 	

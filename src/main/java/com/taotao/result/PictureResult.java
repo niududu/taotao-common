@@ -1,4 +1,4 @@
-package com.taotao.common.pojo;
+package com.taotao.result;
 
 /**
  * 上传图片的返回结果
